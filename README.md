@@ -1,3 +1,3 @@
 # SeaBattle
-[Try without downloading](https://vadikprog.github.io/SeaBattle/)
+[Try without downloading](https://vxdxk.github.io/SeaBattle/)
 ---
